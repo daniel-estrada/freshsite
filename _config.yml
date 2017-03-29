@@ -1,0 +1,3 @@
+name: Daniel Estrada
+markdown: Kramdown
+exclude: ["node_modules","gulpfile.js","package.json","preview.jpg","README.md"]
